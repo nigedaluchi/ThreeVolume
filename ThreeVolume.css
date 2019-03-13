@@ -1,0 +1,30 @@
+.sum{
+  height:500px;
+  background-color: beige;
+  display:inline-block;
+}
+.head{
+  margin:10px;
+  padding:10px;
+  float:left;
+  border-style: solid;
+}
+.hImg{
+  height: 70px;
+  width: 70px;
+  padding: 3px
+}
+.content{
+  display:inline-block;
+  margin:10px;
+  padding:10px;
+  height:450px;
+  border-style:solid;
+}
+.right{
+  float:right;
+  width:110px;
+  margin:10px;
+  padding:10px;
+  border-style:solid;
+}
